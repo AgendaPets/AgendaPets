@@ -24,7 +24,7 @@ const promo = `<section class="promo">
 document.getElementById("promo").innerHTML = promo
 
 
-const finPromo = new Date("2026-09-30T23:59:59").getTime();
+const finPromo = new Date("2026-10-30T23:59:59").getTime();
 
 const dias = document.getElementById("dias");
 const horas = document.getElementById("horas");
